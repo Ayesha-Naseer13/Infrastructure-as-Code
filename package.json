@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "hardhat-testing",
+  "version": "1.0.0",
+  "main": "ayesha.js",
+  "devDependencies": {
+    "hardhat": "^2.22.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayesha Naseer",
+  "license": "ISC",
+  "description": ""
+}
