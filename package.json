@@ -1,12 +1,16 @@
 {
   "dependencies": {
+    "chai": "^4.5.0",
     "json-server": "^1.0.0-beta.3"
   },
   "name": "hardhat-testing",
   "version": "1.0.0",
   "main": "ayesha.js",
   "devDependencies": {
-    "hardhat": "^2.22.16"
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.16",
+    "mocha": "^10.8.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
